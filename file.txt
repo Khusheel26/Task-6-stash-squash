@@ -1,0 +1,1 @@
+This is some content before git stash command.
